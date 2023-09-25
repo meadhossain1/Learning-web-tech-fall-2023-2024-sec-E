@@ -1,0 +1,26 @@
+<Firm>
+<employee sr="1">
+<id>1</id>
+<name>john</name>
+<address>
+<House>38</House>
+<road>3</road>
+<location>Banani</location>
+<district>Dhaka</district>
+</address>
+<department>sales</department>
+<salary>$20000</salary>
+</employee>
+<employee sr="2">
+<id>2</id>
+<name>Mark Zuckerberg</name>
+<adress>
+<House>20</House>
+<road>18</road>
+<Location>Mirpur</Location>
+<district>Dhaka</district>
+</address>
+<department>Accounts</department>
+<salary>$30000</salary>
+</employee>
+</firm>
